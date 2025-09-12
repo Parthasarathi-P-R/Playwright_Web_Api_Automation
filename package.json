@@ -1,0 +1,22 @@
+{
+  "name": "playwright_web_api_automation",
+  "version": "1.0.0",
+  "description": "This is Web and Api automation project .",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parthasarathi-P-R/Playwright_Web_Api_Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parthasarathi-P-R/Playwright_Web_Api_Automation/issues"
+  },
+  "homepage": "https://github.com/Parthasarathi-P-R/Playwright_Web_Api_Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.1"
+  }
+}
